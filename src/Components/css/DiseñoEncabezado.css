@@ -1,0 +1,13 @@
+.container-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+}
+.img-logo{
+    margin-top: -50px !important;
+    border-radius: 0%;
+    width: 400px !important;
+    height: auto;
+}
